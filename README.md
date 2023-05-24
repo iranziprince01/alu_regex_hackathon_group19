@@ -1,7 +1,7 @@
 <h1>ALU Regex assignment</h1>
 <h3>This is a regex assignment<h3>
 <h3>Contributors:</h3>
-Prince Iranzi[(https://github.com/iranziprince01)]
+[Prince Iranzi(https://github.com/iranziprince01)]
 <p>(https://github.com/IraduhayeBukuruPaterne1)[Paterne Iraduhaye Bukuru]</p>
 <p>(https://github.com/n-uwayo)[Noella Uwayo]</p>
 <p>(https://github.com/innocentmanzi)[Innocent Manzi]</p>
